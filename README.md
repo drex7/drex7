@@ -21,8 +21,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# hey there [](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif")
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -30,9 +28,9 @@
 ---
 
 ### :man_technologist: About me :
-I am a full stack developer from Ghana.
-- :telescope: I'm currently learning  blockchain development
-- :seedling: Exploring 
+Hi, I am a software developer from Ghana. I can build just about anything.
+- :telescope: I'm currently learning  blockchain development.
+<!-- - :seedling: Exploring  -->
 - :zap: In my free time, I explore new technologies and read tech blogs.
 - :mailbox: Reach me here: [![LinkedIn Badge](https://img.shields.io/badge/-derrick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-asamoah)
 
@@ -58,7 +56,16 @@ I am a full stack developer from Ghana.
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
 </div>
+<!-- Tools & Languages: End -->
+---
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drex7&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=9CCEDD&background=080101)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drex7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
