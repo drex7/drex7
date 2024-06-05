@@ -26,9 +26,9 @@
 </div> -->
 
 ---
-
+<!--
 ### :man_technologist: About me :
-Hi, I am a software developer from Ghana. I can build just about anything.
+Hi, I am a software QA Engineer.
 - :telescope: I'm currently learning  blockchain development.
 <!-- - :seedling: Exploring  -->
 - :zap: In my free time, I explore new technologies and read tech blogs.
